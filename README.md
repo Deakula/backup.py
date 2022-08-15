@@ -17,6 +17,10 @@ A simple script to manage local file backups with configurable rotation.
    ```
 3. Run the script with `python3 backup.py` to create a new backup of all the directories you listed in `dirs.txt`
 
+## TODO
+- [ ] Add directory compression support.
+- [ ] Add support for sending backups offsite.
+
 ## License
 
 [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/)
